@@ -73,6 +73,7 @@ class CircularLinkedList {
       current = current.next;
     } while (current !== this.head);
     console.log(str);
+    
   }
 }
 
